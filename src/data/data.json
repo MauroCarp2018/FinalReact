@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "titulo": "Camiseta Titular",
+        "descripcion": "Aenean auctor gravida sem.",
+        "categoria": "camisetas",
+        "imagen": "https://tiendariver.vteximg.com.br/arquivos/ids/170367-1000-1000/HY3213_1.jpg?v=638283952075530000",
+        "precio": 75.000,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "titulo": "Camiseta Suplente",
+        "descripcion": "Nulla ut erat id mauris vulputate elementum.",
+        "categoria": "camisetas",
+        "imagen": "https://assets.adidas.com/images/w_600,f_auto,q_auto/754036fc1f0c49329663afd4af898689_9366/Camiseta_Tercer_Uniforme_River_Plate_23-24_Mujer_Negro_HT9875_01_laydown.jpg",
+        "precio": 75.000,
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "titulo": "Camista Alternativa",
+        "descripcion": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",
+        "categoria": "camisetas",
+        "imagen": "https://tiendariver.vteximg.com.br/arquivos/ids/170591-500-500/HT3688_FR.png?v=638324652257270000",
+        "precio": 75.000,
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "titulo": "Camiseta Retro",
+        "descripcion": "Aenean sit amet justo.",
+        "categoria": "camisetas",
+        "imagen": "https://www.digitalsport.com.ar/files/products/6446ed190a33d-591461-500x500.jpg",
+        "precio": 75.000,
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "titulo": "Camiseta Futuro",
+        "descripcion": "Cras non velit nec nisi vulputate nonummy.",
+        "categoria": "camisetas",
+        "imagen": "https://acdn.mitiendanube.com/stores/002/148/125/products/remera-river-plate-concepto-bandera-ax-0314-f1-c1d1f142db8d38b18716533407566506-640-0.jpg",
+        "precio": 80.000,
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "titulo": "Remera Blanca",
+        "descripcion": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",
+        "categoria": "remeras",
+        "imagen": "https://thumbs.nosto.com/quick/rbxh5h46/8/676170_alt_cdc5fd95eb07c979f24f687bf7ba77e5ec72ff952fb8019b124a80bedd008f80/14b528a68e597ac5e3d11287d8eefff94d4e4a76a37560955e72b4c8beb03192/A",
+        "precio": 55.000,
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "titulo": "Remera Negra",
+        "descripcion": "In hac habitasse platea dictumst.",
+        "categoria": "remeras",
+        "imagen": "https://templofutbol.vtexassets.com/arquivos/ids/18211427/HC1053-A.jpg?v=638386770322700000",
+        "precio": 55.000,
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "titulo": "Remera Roja",
+        "descripcion": "Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+        "categoria": "remeras",
+        "imagen": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/d163db912c14403faa887a354c9f31c7_9366/camiseta-de-entrenamiento-river-plate.jpg",
+        "precio": 55.000,
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "titulo": "Remera Musculosa",
+        "descripcion": "Mauris sit amet eros.",
+        "categoria": "remeras",
+        "imagen": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/88e6c8516cea4439bf736857a16cec29_9366/camiseta-sin-mangas-river-plate.jpg",
+        "precio": 49.000,
+        "stock": 10
+    },
+    {
+        "id": 10,
+        "titulo": "Remera Basket",
+        "descripcion": "Nullam varius.",
+        "categoria": "remeras",
+        "imagen": "https://i.pinimg.com/236x/d2/d6/e3/d2d6e363de241f4d8eab9fa3df2d4149.jpg",
+        "precio": 48.000,
+        "stock": 10
+    },
+    {
+        "id": 11,
+        "titulo": "Remera Millo",
+        "descripcion": "Nulla tempus.",
+        "categoria": "remeras",
+        "imagen": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw3b78b71b/products/ADHY0420/ADHY0420-1.JPG",
+        "precio": 50.000,
+        "stock": 10
+    },
+    {
+        "id": 12,
+        "titulo": "Buzo Negro",
+        "descripcion": "Sed accumsan felis.",
+        "categoria": "buzos",
+        "imagen": "https://tiendariver.vteximg.com.br/arquivos/ids/169834-1000-1000/HC1042_FR_Torso_ecom.jpg?v=638092229503830000",
+        "precio": 85.000,
+        "stock": 10
+    },
+    {
+        "id": 13,
+        "titulo": "Buzo Blanco",
+        "descripcion": "Morbi vel lectus in quam fringilla rhoncus.",
+        "categoria": "buzos",
+        "imagen": "https://tiendariver.vteximg.com.br/arquivos/ids/170776-500-500/HY0438_Fr_Torso_eCom_1.jpg?v=638406789741930000",
+        "precio": 85.000,
+        "stock": 10
+    },
+    {
+        "id": 14,
+        "titulo": "Buzo Rojo",
+        "descripcion": "In blandit ultrices enim.",
+        "categoria": "buzos",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/699990c5d91042be8e47af26002994e2_9366/Buzo_con_Capucha_River_Plate_Rojo_HC3501_01_laydown.jpg",
+        "precio": 90.000,
+        "stock": 10
+    },
+    {
+        "id": 15,
+        "titulo": "Buzo Banda",
+        "descripcion": "Morbi non lectus.",
+        "categoria": "buzos",
+        "imagen": "https://tienda.notevitricampeon.com/wp-content/uploads/2022/04/Buzo-Canguro-River-Plate-5-500x500-1.jpg",
+        "precio": 85.000,
+        "stock": 10
+    },
+    {
+        "id": 16,
+        "titulo": "Buzo Retro",
+        "descripcion": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",
+        "categoria": "buzos",
+        "imagen": "https://acdn.mitiendanube.com/stores/830/660/products/bczt-0329-frente1-a5132cf47b5f87333715594332416980-1024-1024.jpg",
+        "precio": 75.000,
+        "stock": 10
+    },
+    {
+        "id": 17,
+        "titulo": "Short Titular",
+        "descripcion": "Aenean auctor gravida sem.",
+        "categoria": "shorts",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5fdfc8ec95944511a45eaee6010ca511_9366/Short_Uniforme_Titular_River_Plate_22-23_Negro_HE6309_01_laydown.jpg",
+        "precio": 56.000,
+        "stock": 10
+    },
+        {
+        "id": 18,
+        "titulo": "Short Suplente",
+        "descripcion": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.",
+        "categoria": "shorts",
+        "imagen": "https://tiendariver.vteximg.com.br/arquivos/ids/170433-1000-1000/HT3689_FR_Torso_ecom--1-.png?v=638306567533800000",
+        "precio": 56.000,
+        "stock": 10
+    },
+    {
+        "id": 19,
+        "titulo": "Short Alternativo",
+        "descripcion": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",
+        "categoria": "shorts",
+        "imagen": "https://lamaquinaretro.com.ar/wp-content/uploads/2022/05/shorts-4.jpg",
+        "precio": 56.000,
+        "stock": 10
+    },
+    {
+        "id": 20,
+        "titulo": "Short Blanco",
+        "descripcion": "Etiam justo.",
+        "categoria": "shorts",
+        "imagen": "https://tiendapodium.com.ar/wp-content/uploads/2021/04/A-FQ7663-3.jpg",
+        "precio": 56.000,
+        "stock": 10
+    }
+]
